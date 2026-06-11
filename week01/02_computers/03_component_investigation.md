@@ -14,4 +14,3 @@ images/components/
 | Motherboard | Connects and allows communication between all computer components.| Chipset, Socket Type, Form Factor (ATX, Micro-ATX, Mini-ITX)|
 | Power Supply | Converts mains electricity into usable power for computer components.|  Wattage (W), Efficiency Rating (80 Plus Bronze/Gold, etc.)|
 | Cooling |  Removes heat from components to maintain safe operating temperatures.||Cooling Type (Air/Liquid), Fan Size (mm), Airflow (CFM)
-
