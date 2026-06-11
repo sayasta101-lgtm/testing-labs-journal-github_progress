@@ -4,7 +4,6 @@ Images should be stored in:
 !<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/ba741594-cdec-499a-82c2-c6710db37cdb" />
 
 images/components/
-```
 
 | Component | Function | Key Specification |
 |----------|---------|------------------|
