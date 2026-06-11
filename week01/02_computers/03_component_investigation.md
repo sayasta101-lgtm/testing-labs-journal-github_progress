@@ -7,9 +7,9 @@ images/components/
 
 | Component | Function | Key Specification |
 |----------|---------|------------------|
-| CPU | | | Executes instructions and performs calculations required by programs and the operating system. Clock Speed (GHz), Number of Cores/Threads, Cache Size
-| RAM | | | Temporarily stores data and programs currently in use for quick access by the CPU.
-Capacity (GB), Speed (MHz/MT/s), DDR Type (e.g., DDR4, DDR5)
+| CPU | Executes instructions and performs calculations required by programs and the operating system.| Clock Speed (GHz), Number of Cores/Threads, Cache Size|  
+| RAM | Temporarily stores data and programs currently in use for quick access by the CPU.| | Capacity (GB), Speed (MHz/MT/s), DDR Type (e.g., DDR4, DDR5)
+
 | Storage | | | Permanently stores the operating system, applications, and user files.
 Capacity (GB/TB), Type (SSD/HDD), Read/Write Speed
 | Motherboard | | |Connects and allows communication between all computer components.
