@@ -6,8 +6,6 @@ Insert image:
 !<img width="246" height="205" alt="download" src="https://github.com/user-attachments/assets/e9823ea8-738e-4667-a6aa-785d3ef6b2dd" />
 
 images/system/computer-before.jpg
-```
----
 ## Internal Layout
 Open the computer case and observe the internal components.
 Describe what you see.
