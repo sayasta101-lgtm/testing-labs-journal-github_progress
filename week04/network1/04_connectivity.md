@@ -3,12 +3,9 @@
 ### 4.1 Ping Test Screenshot(s)
 ```
 images/ping-pc0.png
-```
+!<img width="1815" height="1597" alt="image" src="https://github.com/user-attachments/assets/9ba027e2-7677-4799-bd55-9bf3cf575ffc" />
 
 ### 4.2 Describe the Results
-- Were all PCs able to ping each other?  
-- Which pings were successful?  
-- Which ones failed and why?
 
 _Write your explanation here…_
 
